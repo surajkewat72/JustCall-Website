@@ -1,12 +1,29 @@
-# React + Vite
+# jUST CALL Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Project Overview This is a Video Calling Website built using the ZegoCloud Chat API, enabling real-time, high-quality video and audio communication directly through the browser.
 
-Currently, two official plugins are available:
+Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+One-on-one and group video calls
 
-## Expanding the ESLint configuration
+Secure user authentication
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Easy room creation and joining
+
+Modern and responsive UI
+
+About ZegoCloud Chat API ZegoCloud Chat API is a real-time communication service that allows developers to easily integrate messaging, audio, and video calling features into their apps or websites. It provides fast, low-latency, and reliable communication with global coverage, supporting features like:
+
+Real-time messaging (1-on-1 and group chats)
+
+Video and audio calls with high quality
+
+End-to-end encryption and secure user authentication
+
+Low latency for smooth interactions
+
+Global server network for stable connections
+
+ZegoCloud offers SDKs and APIs that are simple to use with platforms like Web, iOS, Android, and more — making it a powerful choice for building real-time, interactive experiences.
+
+Learn more at ZegoCloud Official Site: https://www.zegocloud.com/
