@@ -1,4 +1,4 @@
-# jUST CALL Project
+# JustCall 
 
 Project Overview This is a Video Calling Website built using the ZegoCloud Chat API, enabling real-time, high-quality video and audio communication directly through the browser.
 
